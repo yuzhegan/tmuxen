@@ -33,3 +33,5 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 | `prefix+<C-r>`  | 恢复回话状态  |
 
 记住经常使用`Prefix+<C-s>` 来保存回话
+### tmux 复制到系统剪切板
+进入复制模式，选择需要复制的内容，直接`Enter` 就可以将选择内容复制到系统剪切板
